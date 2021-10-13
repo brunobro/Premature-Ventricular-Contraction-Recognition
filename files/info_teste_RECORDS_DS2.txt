@@ -1,0 +1,10 @@
+TESTE
+Database: MIT/BIH
+
+Batimentos desbalanceados: 39647
+	 Classe Positiva: 3219
+	 Classe Negativa: 36428
+
+Batimentos balanceados: 5924
+	 Classe Positiva: 2962
+	 Classe Negativa: 2962
